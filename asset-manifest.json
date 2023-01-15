@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chatappreel/static/css/main.38fdc94e.css",
+    "main.js": "/chatappreel/static/js/main.68b1144c.js",
+    "static/media/robot.gif": "/chatappreel/static/media/robot.0617a41936621e9697cd.gif",
+    "static/media/loader.gif": "/chatappreel/static/media/loader.4891775a9c73b19d9571.gif",
+    "static/media/logo.png": "/chatappreel/static/media/logo.2cbfda943f6d6da33482.png",
+    "index.html": "/chatappreel/index.html",
+    "main.38fdc94e.css.map": "/chatappreel/static/css/main.38fdc94e.css.map",
+    "main.68b1144c.js.map": "/chatappreel/static/js/main.68b1144c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38fdc94e.css",
+    "static/js/main.68b1144c.js"
+  ]
+}
